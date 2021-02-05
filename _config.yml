@@ -115,9 +115,9 @@ navs:
 
   -
     
-    href: http://www.justdojava.com
-    label: Java
-    target: _blank
+    href: /url.html
+    label: 常用链接
+    target: _self
 
   -
     href: /archives.html
