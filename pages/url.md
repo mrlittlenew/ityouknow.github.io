@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 常用链接
-titlebar: Link
+titlebar: Url
 subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; Resource link
-menu: Link
-permalink: /link
+menu: Url
+permalink: /url
 ---
 
 ## 常用的链接
