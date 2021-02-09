@@ -1,6 +1,6 @@
 ---
 layout: post
-title: springcloud(八)：配置中心服务化和高可用
+title: [来源:纯洁的微笑]springcloud(八)：配置中心服务化和高可用
 category: springcloud
 tags: [springcloud]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Spring Boot (十)：邮件服务
+title: [来源:纯洁的微笑] Spring Boot (十)：邮件服务
 category: springboot 
 tags: [springboot]
 copyright: java

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Boot 2 (九)：【重磅】Spring Boot 2.1.0 权威发布
+title: [来源:纯洁的微笑]Spring Boot 2 (九)：【重磅】Spring Boot 2.1.0 权威发布
 category: springboot
 tags: [springboot]
 excerpt: 有哪些新特性值得我们关注

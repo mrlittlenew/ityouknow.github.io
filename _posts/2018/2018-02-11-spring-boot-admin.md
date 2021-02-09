@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Boot(二十)：使用 spring-boot-admin 对 Spring Boot 服务进行监控
+title: [来源:纯洁的微笑]Spring Boot(二十)：使用 spring-boot-admin 对 Spring Boot 服务进行监控
 category: springboot
 tags: [springboot]
 excerpt: Spring Boot Admin 监控、介绍和使用，Spring Boot Admin 图形化监控，让监控更直观更省力。

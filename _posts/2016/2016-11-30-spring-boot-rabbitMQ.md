@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Boot(八)：RabbitMQ 详解
+title: [来源:纯洁的微笑]Spring Boot(八)：RabbitMQ 详解
 category: springboot 
 tags: [springboot]
 copyright: java
