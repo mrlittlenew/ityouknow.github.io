@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot(七)：Mybatis 多数据源最简解决方案
+title: 【来源:纯洁的微笑】Spring Boot(七)：Mybatis 多数据源最简解决方案
 category: springboot 
 tags: [springboot]
 copyright: java

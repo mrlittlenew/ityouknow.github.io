@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot 为什么这么火？
+title: 【来源:纯洁的微笑】Spring Boot 为什么这么火？
 category: springboot
 tags: [springboot]
 keywords: Spring Boot

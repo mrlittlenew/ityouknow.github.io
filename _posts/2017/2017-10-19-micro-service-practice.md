@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]中小型互联网公司微服务实践-经验和教训
+title: 【来源:纯洁的微笑】中小型互联网公司微服务实践-经验和教训
 category: springcloud
 tags: [springcloud]
 keywords: 微服务,实践,经验教训,架构,互联网

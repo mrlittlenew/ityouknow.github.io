@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot 2 版的开源项目云收藏来了！
+title: 【来源:纯洁的微笑】Spring Boot 2 版的开源项目云收藏来了！
 no-post-nav: true
 category: springboot
 tags: [springboot]

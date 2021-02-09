@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]springcloud(十二)：使用Spring Cloud Sleuth和Zipkin进行分布式链路跟踪
+title: 【来源:纯洁的微笑】springcloud(十二)：使用Spring Cloud Sleuth和Zipkin进行分布式链路跟踪
 category: springcloud
 tags: [springcloud]
 keywords: springcloud, Sleuth，Zipkin，链路跟踪

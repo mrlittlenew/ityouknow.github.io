@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot(六)：如何优雅的使用 Mybatis
+title: 【来源:纯洁的微笑】Spring Boot(六)：如何优雅的使用 Mybatis
 category: springboot
 tags: [springboot]
 copyright: java

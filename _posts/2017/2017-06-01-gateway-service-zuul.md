@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]springcloud(十)：服务网关zuul初级篇
+title: 【来源:纯洁的微笑】springcloud(十)：服务网关zuul初级篇
 category: springcloud
 tags: [springcloud]
 ---

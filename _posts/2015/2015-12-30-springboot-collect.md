@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot 学习资料汇总
+title: 【来源:纯洁的微笑】Spring Boot 学习资料汇总
 category: springboot
 tags: [springboot]
 ---

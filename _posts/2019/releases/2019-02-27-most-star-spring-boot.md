@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Github 上 Star 最多的个人 Spring Boot 开源学习项目
+title: 【来源:纯洁的微笑】Github 上 Star 最多的个人 Spring Boot 开源学习项目
 copyright: java
 category: springboot
 tags: [springboot]

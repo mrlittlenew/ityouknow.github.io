@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]springcloud(七)：配置中心svn示例和refresh
+title: 【来源:纯洁的微笑】springcloud(七)：配置中心svn示例和refresh
 category: springcloud
 tags: [springcloud]
 ---

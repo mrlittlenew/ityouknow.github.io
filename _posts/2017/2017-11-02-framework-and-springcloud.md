@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]从架构演进的角度聊聊Spring Cloud都做了些什么？
+title: 【来源:纯洁的微笑】从架构演进的角度聊聊Spring Cloud都做了些什么？
 category: springcloud
 tags: [springcloud]
 keywords: 微服务,架构,Spring Cloud

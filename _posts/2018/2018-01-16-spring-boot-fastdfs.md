@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot(十八)：使用 Spring Boot 集成 FastDFS
+title: 【来源:纯洁的微笑】Spring Boot(十八)：使用 Spring Boot 集成 FastDFS
 category: springboot
 tags: [springboot]
 excerpt: 分布式文件系统FastDFS和Spring Boot的故事。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot 2 (二)：Spring Boot 2 尝鲜-动态 Banner
+title: 【来源:纯洁的微笑】Spring Boot 2 (二)：Spring Boot 2 尝鲜-动态 Banner
 category: springboot
 tags: [springboot]
 keywords: Spring Boot,Banner

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot 实战：我们的第一款开源软件
+title: 【来源:纯洁的微笑】Spring Boot 实战：我们的第一款开源软件
 copyright: java
 category: springboot
 tags: [云收藏]

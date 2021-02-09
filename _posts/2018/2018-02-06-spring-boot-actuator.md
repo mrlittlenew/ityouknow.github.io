@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot (十九)：使用 Spring Boot Actuator 监控应用
+title: 【来源:纯洁的微笑】Spring Boot (十九)：使用 Spring Boot Actuator 监控应用
 category: springboot
 tags: [springboot]
 excerpt: 监控是企业的一道生命线，Spring Boot Actuator 提供了一套完备的监控方案用来监控 Spring Boot 应用。

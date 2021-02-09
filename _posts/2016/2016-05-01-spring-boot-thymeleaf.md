@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot(四)：Thymeleaf 使用详解
+title: 【来源:纯洁的微笑】Spring Boot(四)：Thymeleaf 使用详解
 copyright: java
 category: springboot
 tags: [thymeleaf]

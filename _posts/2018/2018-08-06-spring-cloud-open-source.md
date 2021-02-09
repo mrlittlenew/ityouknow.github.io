@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]springcloud(十四)：Spring Cloud 开源软件都有哪些？
+title: 【来源:纯洁的微笑】springcloud(十四)：Spring Cloud 开源软件都有哪些？
 category: springcloud
 tags: [springcloud]
 keywords: Spring Cloud,open source

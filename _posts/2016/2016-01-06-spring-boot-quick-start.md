@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot(一)：入门篇
+title: 【来源:纯洁的微笑】Spring Boot(一)：入门篇
 copyright: java
 category: springboot
 tags: [springboot]

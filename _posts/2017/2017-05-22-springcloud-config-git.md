@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]springcloud(六)：配置中心git示例
+title: 【来源:纯洁的微笑】springcloud(六)：配置中心git示例
 category: springcloud
 tags: [springcloud]
 ---

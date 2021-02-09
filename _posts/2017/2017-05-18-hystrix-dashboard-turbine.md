@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]springcloud(五)：熔断监控Hystrix Dashboard和Turbine
+title: 【来源:纯洁的微笑】springcloud(五)：熔断监控Hystrix Dashboard和Turbine
 category: springcloud
 tags: [springcloud]
 ---

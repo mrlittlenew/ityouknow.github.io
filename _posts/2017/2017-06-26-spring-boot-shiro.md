@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑] Spring Boot (十四)： Spring Boot 整合 Shiro-登录认证和权限管理
+title: 【来源:纯洁的微笑】 Spring Boot (十四)： Spring Boot 整合 Shiro-登录认证和权限管理
 category: springboot 
 tags: [springboot]
 copyright: java

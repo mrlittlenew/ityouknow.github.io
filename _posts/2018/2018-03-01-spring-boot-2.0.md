@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Boot 2(一)：【重磅】Spring Boot 2.0权威发布
+title: 【来源:纯洁的微笑】Spring Boot 2(一)：【重磅】Spring Boot 2.0权威发布
 category: springboot
 tags: [springboot]
 excerpt: 有哪些新特性值得我们关注

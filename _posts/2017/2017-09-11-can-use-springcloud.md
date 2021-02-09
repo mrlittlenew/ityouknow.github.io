@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]Spring Cloud在国内中小型公司能用起来吗？
+title: 【来源:纯洁的微笑】Spring Cloud在国内中小型公司能用起来吗？
 category: springcloud
 tags: [springcloud]
 keywords: 微服务,Spring Cloud,中小企业,架构

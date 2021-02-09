@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [来源:纯洁的微笑]springcloud(十五)：服务网关 Spring Cloud GateWay 入门
+title: 【来源:纯洁的微笑】springcloud(十五)：服务网关 Spring Cloud GateWay 入门
 category: springcloud
 tags: [springcloud]
 keywords: springcloud, GateWay，服务网关
