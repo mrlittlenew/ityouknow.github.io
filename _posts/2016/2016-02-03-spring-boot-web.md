@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】Spring Boot(二)：Web 综合开发
+title: 【纯洁的微笑】Spring Boot(二)：Web 综合开发
 copyright: java
 category: springboot
 tags: [springboot]

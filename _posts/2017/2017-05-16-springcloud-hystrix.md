@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】springcloud(四)：熔断器Hystrix
+title: 【纯洁的微笑】springcloud(四)：熔断器Hystrix
 category: springcloud
 tags: [springcloud]
 ---

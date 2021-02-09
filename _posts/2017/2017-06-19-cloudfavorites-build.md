@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】如何构建云收藏项目
+title: 【纯洁的微笑】如何构建云收藏项目
 no-post-nav: true
 category: springboot 
 tags: [springboot]

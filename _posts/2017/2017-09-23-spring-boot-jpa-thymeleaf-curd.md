@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】 Spring Boot (十五)： Spring Boot + Jpa + Thymeleaf 增删改查示例
+title: 【纯洁的微笑】 Spring Boot (十五)： Spring Boot + Jpa + Thymeleaf 增删改查示例
 category: springboot 
 tags: [springboot]
 copyright: java

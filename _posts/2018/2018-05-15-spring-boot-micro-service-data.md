@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】一文读懂 Spring Boot、微服务架构和大数据治理三者之间的故事
+title: 【纯洁的微笑】一文读懂 Spring Boot、微服务架构和大数据治理三者之间的故事
 category: springboot
 tags: [springboot]
 keywords: Spring Boot,微服务架构,大数据,MongoDB

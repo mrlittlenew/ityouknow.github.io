@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】是时候给大家介绍 Spring Boot/Cloud 背后豪华的研发团队了。
+title: 【纯洁的微笑】是时候给大家介绍 Spring Boot/Cloud 背后豪华的研发团队了。
 category: springboot
 tags: [springboot]
 keywords: Spring Boot,Pivotal,Spring Cloud, 研发团队

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】springcloud(十七)：服务网关 Spring Cloud GateWay 熔断、限流、重试
+title: 【纯洁的微笑】springcloud(十七)：服务网关 Spring Cloud GateWay 熔断、限流、重试
 category: springcloud
 tags: [springcloud]
 keywords: springcloud, GateWay，服务网关

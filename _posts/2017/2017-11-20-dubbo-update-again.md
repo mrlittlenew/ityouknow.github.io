@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】阿里Dubbo疯狂更新，关Spring Cloud什么事？
+title: 【纯洁的微笑】阿里Dubbo疯狂更新，关Spring Cloud什么事？
 category: springcloud
 tags: [springcloud]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】springcloud(九)：配置中心和消息总线（配置中心终结版）
+title: 【纯洁的微笑】springcloud(九)：配置中心和消息总线（配置中心终结版）
 category: springcloud
 tags: [springcloud]
 ---

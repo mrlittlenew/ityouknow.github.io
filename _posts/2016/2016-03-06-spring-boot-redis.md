@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】Spring Boot(三)：Spring Boot 中 Redis 的使用
+title: 【纯洁的微笑】Spring Boot(三)：Spring Boot 中 Redis 的使用
 copyright: java
 category: springboot
 tags: [springboot]

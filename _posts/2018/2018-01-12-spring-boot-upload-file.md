@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】Spring Boot(十七)：使用 Spring Boot 上传文件
+title: 【纯洁的微笑】Spring Boot(十七)：使用 Spring Boot 上传文件
 category: springboot
 tags: [springboot]
 excerpt: 使用 Thymeleaf 制作上传页面，Spring Boot 接收文件并保持到本地。

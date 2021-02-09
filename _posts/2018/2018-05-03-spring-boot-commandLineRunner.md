@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】Spring Boot 2 (七)：Spring Boot 如何解决项目启动时初始化资源
+title: 【纯洁的微笑】Spring Boot 2 (七)：Spring Boot 如何解决项目启动时初始化资源
 category: springboot
 tags: [springboot]
 keywords: Spring Boot,commandLineRunner

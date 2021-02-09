@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】 Spring Boot (十三)： Spring Boot 小技巧
+title: 【纯洁的微笑】 Spring Boot (十三)： Spring Boot 小技巧
 category: springboot 
 tags: [springboot]
 copyright: java

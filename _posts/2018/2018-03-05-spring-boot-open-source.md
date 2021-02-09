@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【来源:纯洁的微笑】Spring Boot 2 (三)：Spring Boot 开源软件都有哪些？
+title: 【纯洁的微笑】Spring Boot 2 (三)：Spring Boot 开源软件都有哪些？
 category: springboot
 tags: [springboot]
 keywords: Spring Boot,open source
