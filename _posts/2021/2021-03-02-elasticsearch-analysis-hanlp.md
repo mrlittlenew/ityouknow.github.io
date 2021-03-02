@@ -52,6 +52,8 @@ POST http://localhost:9200/_analyze
 自定义词热更新大概1分钟更新。
 但只能增加新词，删除无法移除，只能通过重启ES生效。
 
+此情况在 elasticsearch-analysis-hanlp-7.10.2 版本存在
+
 
 
 
