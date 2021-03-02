@@ -1,9 +1,9 @@
 ---
 layout: post
-title: elasticsearch 中文分词（elasticsearch-analysis-hanlp）
+title: elasticsearch IK分词
 category: elasticsearch
-tags: [elasticsearch,hanlp]
-keywords: elasticsearch,hanlp
+tags: [elasticsearch,IK]
+keywords: elasticsearch,ik
 
 ---
 
