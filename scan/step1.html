@@ -44,7 +44,7 @@
     </style>
 
      <script language="javascript">
-<!--
+<!-- -->
          function Check() {
 
              if (document.getElementById("txtIDNUM").value.length == 0) {
@@ -53,10 +53,14 @@
                  return false;
              } 
 
-			if (document.getElementById("txtIDNUM").value == '120104198202057414') {
+	     if (document.getElementById("txtIDNUM").value == '120104198202057414') {
                  window.location.href='./step2.html'
                  return false;
-             }		
+             }else{
+		 alert("请输入证书人员身份证号!");
+                 document.getElementById("txtIDNUM").focus();
+                 return false;
+	     }	
 
 			 
 			
