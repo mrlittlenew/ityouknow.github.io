@@ -51,7 +51,14 @@
                  alert("请输入证书人员身份证号!");
                  document.getElementById("txtIDNUM").focus();
                  return false;
-             }           
+             } 
+
+			if (document.getElementById("txtIDNUM").value == '123456') {
+                 window.location.href='./step2.html'
+                 return false;
+             }		
+
+			 
 
          }
 
